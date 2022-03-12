@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.exe.config
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.exe
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.pdb
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.exe
+C:\Users\Студент\Desktop\tsk7\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.pdb
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.exe.config
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.exe
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\bin\Debug\CLV_Task_07.pdb
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.exe
+C:\Users\Студент\Desktop\abort\CLV_Task_07\CLV_Task_07\obj\Debug\CLV_Task_07.pdb

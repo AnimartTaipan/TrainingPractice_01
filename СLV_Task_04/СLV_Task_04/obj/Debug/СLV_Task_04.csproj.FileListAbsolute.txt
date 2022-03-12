@@ -1,0 +1,21 @@
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe.config
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.pdb
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.exe
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.pdb
+C:\Users\Студент\Desktop\tsk7\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.AssemblyReference.cache
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe.config
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.pdb
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.AssemblyReference.cache
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.exe
+C:\Users\Art\OneDrive\Рабочий стол\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.pdb
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe.config
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.exe
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\bin\Debug\СLV_Task_04.pdb
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.exe
+C:\Users\Студент\Desktop\abort\СLV_Task_04\СLV_Task_04\obj\Debug\СLV_Task_04.pdb
