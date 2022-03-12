@@ -1,0 +1,7 @@
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\obj\Debug\CLV_Task_02.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\obj\Debug\CLV_Task_02.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\bin\Debug\CLV_Task_02.exe.config
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\bin\Debug\CLV_Task_02.exe
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\bin\Debug\CLV_Task_02.pdb
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\obj\Debug\CLV_Task_02.exe
+C:\Users\Студент\Desktop\abort\CLV_Task_02\CLV_Task_02\obj\Debug\CLV_Task_02.pdb
